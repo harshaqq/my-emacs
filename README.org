@@ -1,0 +1,8 @@
+* My emacs configuration
+This is my emacs configuration, inspired by [[dotemacs][https://github.com/bling/dotemacs]]
+Main packages are:
+- [[EXWM][https://github.com/ch11ng/exwm]]
+
+* Principle
+
+* Things to do
